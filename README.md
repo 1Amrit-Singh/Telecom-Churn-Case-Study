@@ -1,6 +1,7 @@
 # Telecom Churn Case Study
 
-you can find the data by using this link https://drive.google.com/file/d/1PPjfXgvwjOqvh4rUHmAWZmn-koscN4Cd/view?usp=drive_link
+you can find the data by using this link [https://drive.google.com/file/d/1PPjfXgvwjOqvh4rUHmAWZmn-koscN4Cd/view?usp=drive_link](https://drive.google.com/file/d/1PPjfXgvwjOqvh4rUHmAWZmn-koscN4Cd/view?usp=sharing)
+
 
 ## Analysis Approach
 
